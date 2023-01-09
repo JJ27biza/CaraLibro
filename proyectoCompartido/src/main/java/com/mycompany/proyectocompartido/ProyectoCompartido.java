@@ -13,6 +13,6 @@ public class ProyectoCompartido {
 
     public static void main(String[] args) {
         System.out.println("Hola soy daniel");
-        //Holadffffd
+        //Comentario de daniel
     }
 }
